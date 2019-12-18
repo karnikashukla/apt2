@@ -1,0 +1,7 @@
+D:\MA032\p4\p4\obj\Debug\p4.csprojAssemblyReference.cache
+D:\MA032\p4\p4\obj\Debug\p4.csproj.CoreCompileInputs.cache
+D:\MA032\p4\p4\bin\Debug\p4.exe.config
+D:\MA032\p4\p4\bin\Debug\p4.exe
+D:\MA032\p4\p4\bin\Debug\p4.pdb
+D:\MA032\p4\p4\obj\Debug\p4.exe
+D:\MA032\p4\p4\obj\Debug\p4.pdb
