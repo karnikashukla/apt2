@@ -1,0 +1,6 @@
+D:\4MA033\practical3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\4MA033\practical3\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\4MA033\practical3\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\4MA033\practical3\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\4MA033\practical3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\4MA033\practical3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
